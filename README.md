@@ -1,74 +1,69 @@
 <div align="center">
 
-<a href="https://github.com/gyungjae-ham">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Gyungjae+%F0%9F%91%8B;Backend+engineer+%7C+Java+%C2%B7+Kotlin+%C2%B7+Spring;Building+reliable+systems+at+Athler" alt="typing-header" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Backend+engineer+%E2%80%94+Java+%C2%B7+Kotlin+%C2%B7+Spring;Building+reliable+systems+at+Athler;Reliability+over+features+in+2026" alt="header" />
+
+<sub><code>gyungjae-ham</code> &nbsp;·&nbsp; Backend engineer &nbsp;·&nbsp; Bind Corp</sub>
 
 </div>
 
----
+<br>
 
-### 🧭 About
+### About
 
-- 🛠️  **Backend engineer** crafting Spring Boot services with a focus on data integrity & batch reliability.
-- 🏗️  Currently shipping at **Athler** — server, seller-admin, and infra.
-- ✍️  Care a lot about clean transactional boundaries, observability, and CI/CD ergonomics.
-- 📫  Reach me: `gyeongjae.h.dev@gmail.com`
+Backend engineer crafting Spring Boot services with a focus on **data integrity, batch reliability, and clean transactional boundaries.** Currently shipping at **Athler** — server, seller-admin, and infra.
 
-### 🎯 Focus for 2026
+📫 &nbsp; `gyeongjae.h.dev@gmail.com`
 
-> **Reliability over features** — strengthening Spring Batch pipelines, hardening AWS infra-as-code, and writing more about what I learn.
+### Focus · 2026
 
----
+> **Reliability over features.**  Strengthening Spring Batch pipelines, hardening AWS infra-as-code, and writing more about what I learn.
 
-### 📊 GitHub Stats
+<br>
+
+### Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gyungjae-ham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" />
-<img height="165" src="https://streak-stats.demolab.com?user=gyungjae-ham&theme=tokyonight&hide_border=true" />
+<img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=gyungjae-ham&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&ring_color=a78bfa" />
+&nbsp;
+<img height="170" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyungjae-ham&layout=compact&hide_border=true&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyungjae-ham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=gyungjae-ham&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=8" />
+<img height="170" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
 
----
+<br>
 
-### 🧰 Tech Stack
+### Stack
 
-**Language & Framework**
+**Backend**
+![Java](https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=A78BFA)
+![Kotlin](https://img.shields.io/badge/Kotlin-1f1f1f?style=flat-square&logo=kotlin&logoColor=A78BFA)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=A78BFA)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1f1f1f?style=flat-square&logo=springsecurity&logoColor=A78BFA)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-1f1f1f?style=flat-square&logo=spring&logoColor=A78BFA)
+![Gradle](https://img.shields.io/badge/Gradle-1f1f1f?style=flat-square&logo=gradle&logoColor=A78BFA)
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-**Infra & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Infra**
+![AWS](https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=A78BFA)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1f1f1f?style=flat-square&logo=ubuntu&logoColor=A78BFA)
+![Nginx](https://img.shields.io/badge/Nginx-1f1f1f?style=flat-square&logo=nginx&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=A78BFA)
+![Jenkins](https://img.shields.io/badge/Jenkins-1f1f1f?style=flat-square&logo=jenkins&logoColor=A78BFA)
+![Ansible](https://img.shields.io/badge/Ansible-1f1f1f?style=flat-square&logo=ansible&logoColor=A78BFA)
 
 **Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=A78BFA)
 
 **Tools**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1f1f1f?style=flat-square&logo=intellijidea&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/Postman-1f1f1f?style=flat-square&logo=postman&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=A78BFA)
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
+<br>
 
 <div align="center">
 
