@@ -24,11 +24,13 @@ Backend engineer crafting Spring Boot services with a focus on **data integrity,
 
 <div align="center">
 
-<img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=gyungjae-ham&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&ring_color=a78bfa" />
+<img height="175" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github_dark" />
 &nbsp;
-<img height="170" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyungjae-ham&layout=compact&hide_border=true&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img height="175" alt="most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=github_dark" />
 
-<img height="170" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img height="175" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+&nbsp;
+<img height="175" alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyungjae-ham&theme=github_dark&utcOffset=9" />
 
 </div>
 
