@@ -1,5 +1,3 @@
-[![Github](https://www.codenary.co.kr/widget/github/api?username=무호흡냥냥펀치)](https://www.codenary.co.kr/user-profile/detail/무호흡냥냥펀치?github_ride=true&utm_source=github)
-
 <h3 align = center> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = center> <!--tech div-->
 <h4 align = center><strong>Language & Famework</strong></h4> 
