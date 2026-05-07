@@ -26,12 +26,7 @@ Backend engineer crafting Spring Boot services with a focus on **data integrity,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <img height="180" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=github_dark" />
-  <img height="180" alt="most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=default" />
+  <img height="195" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </picture>
 
 </div>
