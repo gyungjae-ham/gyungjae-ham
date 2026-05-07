@@ -25,23 +25,13 @@ Backend engineer crafting Spring Boot services with a focus on **data integrity,
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github_dark" />
-  <img height="175" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img height="180" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=github_dark" />
-  <img height="175" alt="most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=default" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <img height="175" alt="streak" src="https://streak-stats.demolab.com?user=gyungjae-ham&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyungjae-ham&theme=github_dark&utcOffset=9" />
-  <img height="175" alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyungjae-ham&theme=default&utcOffset=9" />
+  <img height="180" alt="most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyungjae-ham&theme=default" />
 </picture>
 
 </div>
