@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:0F766E,100:6366F1&height=220&section=header&text=Ham%20Gyeongjae&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descSize=16&descAlignY=58&descAlign=50" alt="Ham Gyeongjae - Backend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=Ham%20Gyeongjae&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descSize=16&descAlignY=58&descAlign=50" alt="Ham Gyeongjae - Backend Engineer" />
 
 <p>
   <strong>Reliable backend systems, clear transactional boundaries, and practical delivery automation.</strong>
@@ -8,10 +8,10 @@
 
 <p>
   <a href="mailto:gyeongjae.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gyeongjae.h.dev%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-gyeongjae.h.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
   </a>
   <a href="https://github.com/gyungjae-ham">
-    <img src="https://img.shields.io/badge/GitHub-gyungjae--ham-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-gyungjae--ham-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" />
   </a>
 </p>
 
@@ -126,6 +126,6 @@ For backend engineering, Spring Batch, infrastructure automation, or collaborati
 
 <p>
   <a href="mailto:gyeongjae.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/gyeongjae.h.dev%40gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/gyeongjae.h.dev%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
   </a>
 </p>
