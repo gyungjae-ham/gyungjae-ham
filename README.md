@@ -104,18 +104,18 @@ Currently building server, seller-admin, and infrastructure features at **Athler
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyungjae-ham&theme=github_dark" />
-  <img width="100%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyungjae-ham&theme=github" />
+  <img width="98%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyungjae-ham&theme=github" />
 </picture>
 
 <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github_dark" />
-  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github" />
+  <img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyungjae-ham&theme=github_dark" />
-  <img height="170" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyungjae-ham&theme=github" />
+  <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyungjae-ham&theme=github" />
 </picture>
 
 </div>
