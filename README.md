@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=Ham%20Gyeongjae&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descSize=16&descAlignY=58&descAlign=50" alt="Ham Gyeongjae - Backend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=%ED%95%A8%EA%B2%BD%EC%9E%AC&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descSize=16&descAlignY=58&descAlign=50" alt="함경재 - 백엔드 엔지니어" />
 
 <p>
-  <strong>Reliable backend systems, clear transactional boundaries, and practical delivery automation.</strong>
+  <strong>안정적인 백엔드 시스템, 명확한 트랜잭션 경계, 그리고 실용적인 배포 자동화.</strong>
 </p>
 
 <p>
@@ -19,46 +19,46 @@
 
 ---
 
-### About
+### 소개
 
-Backend engineer focused on systems where correctness and operability matter. I work across API design, persistence models, transaction scopes, batch pipelines, and infrastructure automation.
+정확성과 운영성이 중요한 시스템에 집중하는 백엔드 엔지니어입니다. API 설계, 영속성 모델, 트랜잭션 범위, 배치 파이프라인, 인프라 자동화 전반에 걸쳐 작업합니다.
 
-Currently building server, seller-admin, and infrastructure features at **Athler / Bind Corp**.
+현재 **Athler / Bind Corp**에서 서버, 셀러 어드민, 인프라 기능을 개발하고 있습니다.
 
-### What I Build
+### 만드는 것
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Reliable APIs</strong>
+      <strong>안정적인 API</strong>
       <br />
-      Domain-aware service flows, explicit validation, and predictable failure handling for production services.
+      도메인을 이해한 서비스 흐름, 명시적인 검증, 그리고 운영 서비스를 위한 예측 가능한 실패 처리.
     </td>
     <td width="33%" valign="top">
-      <strong>Batch Processing</strong>
+      <strong>배치 처리</strong>
       <br />
-      Repeatable Spring Batch pipelines with restartability, observability, and data consistency in mind.
+      재시작 가능성, 관측 가능성, 데이터 일관성을 염두에 둔 반복 가능한 Spring Batch 파이프라인.
     </td>
     <td width="33%" valign="top">
-      <strong>Infra Automation</strong>
+      <strong>인프라 자동화</strong>
       <br />
-      Practical deployment automation using AWS, Docker, Nginx, Jenkins, and Ansible.
+      AWS, Docker, Nginx, Jenkins, Ansible을 활용한 실용적인 배포 자동화.
     </td>
   </tr>
 </table>
 
-### Engineering Focus
+### 엔지니어링 지향점
 
-- **Data integrity:** persistence rules, transactional boundaries, and consistency-aware service design
-- **Operational reliability:** observable jobs, clear failure modes, and production-friendly defaults
-- **Maintainable delivery:** simple automation, repeatable deploys, and infrastructure that teams can operate
-- **Backend craftsmanship:** readable code, focused abstractions, and systems that stay understandable over time
+- **데이터 무결성:** 영속성 규칙, 트랜잭션 경계, 일관성을 고려한 서비스 설계
+- **운영 안정성:** 관측 가능한 작업, 명확한 실패 모드, 운영 친화적인 기본값
+- **유지보수 가능한 배포:** 간결한 자동화, 반복 가능한 배포, 팀이 운영할 수 있는 인프라
+- **백엔드 장인정신:** 읽기 쉬운 코드, 집중된 추상화, 시간이 지나도 이해 가능한 시스템
 
-### Tech Stack
+### 기술 스택
 
 <table>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>백엔드</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Kotlin-6366F1?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -69,7 +69,7 @@ Currently building server, seller-admin, and infrastructure features at **Athler
     </td>
   </tr>
   <tr>
-    <td><strong>Database</strong></td>
+    <td><strong>데이터베이스</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -78,7 +78,7 @@ Currently building server, seller-admin, and infrastructure features at **Athler
     </td>
   </tr>
   <tr>
-    <td><strong>Infra</strong></td>
+    <td><strong>인프라</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -89,7 +89,7 @@ Currently building server, seller-admin, and infrastructure features at **Athler
     </td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>도구</strong></td>
     <td>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
       <img src="https://img.shields.io/badge/Postman-F97316?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
@@ -98,7 +98,7 @@ Currently building server, seller-admin, and infrastructure features at **Athler
   </tr>
 </table>
 
-### GitHub Overview
+### GitHub 개요
 
 <div align="center">
 
@@ -120,9 +120,9 @@ Currently building server, seller-admin, and infrastructure features at **Athler
 
 </div>
 
-### Contact
+### 연락처
 
-For backend engineering, Spring Batch, infrastructure automation, or collaboration:
+백엔드 엔지니어링, Spring Batch, 인프라 자동화, 또는 협업 관련 문의:
 
 <p>
   <a href="mailto:gyeongjae.h.dev@gmail.com">
