@@ -1,72 +1,52 @@
-<div align="center">
-
 # 함경재 &nbsp;·&nbsp; Gyungjae Ham
 
-<a href="https://github.com/gyungjae-ham">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&height=45&lines=Backend+Engineer+%C2%B7+5%2B+years;Async+%C2%B7+Batch+%C2%B7+Preloading;42s+%E2%86%92+20ms+%E3%85%A4%7C%E3%85%A4+60s+%E2%86%92+3s;%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EB%B0%94%EA%BE%B8%EC%96%B4+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%97%86%EC%95%B0%EB%8B%88%EB%8B%A4" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&width=620&height=45&lines=Backend+Engineer+%C2%B7+5%2B+years;Async+%C2%B7+Batch+%C2%B7+Preloading;42s+%E2%86%92+20ms+%E3%85%A4%7C%E3%85%A4+60s+%E2%86%92+3s;%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EB%B0%94%EA%BE%B8%EC%96%B4+%EB%B3%91%EB%AA%A9%EC%9D%84+%EC%97%86%EC%95%B0%EB%8B%88%EB%8B%A4" alt="typing" />
 
-<p>
-  응답 지연과 외부 시스템 의존처럼 <strong>구조에서 비롯되는 문제</strong>를<br/>
-  비동기 처리 · 배치 · 사전 적재로 풀어내는 5년차 백엔드 엔지니어입니다.
-</p>
+> 응답 지연과 외부 시스템 의존처럼 **구조에서 비롯되는 문제**를<br/>
+> 비동기 처리 · 배치 · 사전 적재로 풀어내는 **5년차 백엔드 엔지니어**입니다.
 
-<p>
-  <a href="mailto:gyeongjae.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
-  </a>
-  <a href="https://github.com/gyungjae-ham">
-    <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
-  </a>
-  <a href="https://gyungjae-ham.github.io">
-    <img src="https://img.shields.io/badge/Blog-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A" alt="Blog" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:gyeongjae.h.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/gyungjae-ham)
+[![Blog](https://img.shields.io/badge/Blog-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A)](https://gyungjae-ham.github.io)
 
-</div>
-
-<br/>
+---
 
 ## 🚀 임팩트
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/42초_→_20ms-6366F1?style=for-the-badge&labelColor=0F172A" alt="42s to 20ms" /><br/>
 <sub><b>외부 API 사전 적재 재설계</b><br/>실시간 호출 → 30분 배치 조회</sub>
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/60초_→_3~5초-7C3AED?style=for-the-badge&labelColor=0F172A" alt="60s to 3s" /><br/>
 <sub><b>대용량 주문 처리 재구성</b><br/>N+1 제거 · BatchInsert</sub>
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/1,200ms_→_55ms-2563EB?style=for-the-badge&labelColor=0F172A" alt="1200ms to 55ms" /><br/>
 <sub><b>Slow Query 진단 · API 튜닝</b><br/>주기적 서버 다운 해결</sub>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/3분_20초_→_21초-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="CI" /><br/>
 <sub><b>CI 테스트 병렬화</b><br/>700+ 테스트 실행 최적화</sub>
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/유실률_0%25-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="0 loss" /><br/>
 <sub><b>webhook 서버 분리</b><br/>출결·Zoom 데이터 무결성 확보</sub>
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 <img src="https://img.shields.io/badge/timeout_0건-06B6D4?style=for-the-badge&labelColor=0F172A" alt="0 timeout" /><br/>
 <sub><b>K6 부하 테스트 · Pod 재배분</b><br/>피크 시간대 가용성 확보</sub>
 </td>
 </tr>
 </table>
 
-<sub>💡 공통점은 하나 — 외부 의존과 동기 처리에서 오는 병목을, <b>구조를 바꿔</b> 제거했습니다.</sub>
+💡 공통점은 하나 — 외부 의존과 동기 처리에서 오는 병목을, **구조를 바꿔** 제거했습니다.
 
-</div>
-
-<br/>
+---
 
 ## 💼 경력
 
@@ -114,7 +94,7 @@
 
 </details>
 
-<br/>
+---
 
 ## 🛠️ 기술 스택
 
@@ -157,16 +137,12 @@
 </tr>
 </table>
 
-<br/>
+---
 
-<div align="center">
+## 📝 블로그
 
-### 📝 기술 선택과 트러블슈팅 과정을 블로그에 기록합니다
+기술 선택과 트러블슈팅 과정을 글로 기록합니다.
 
-<a href="https://gyungjae-ham.github.io">
-  <img src="https://img.shields.io/badge/gyungjae--ham.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A" alt="Blog" />
-</a>
+[![Blog](https://img.shields.io/badge/gyungjae--ham.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A)](https://gyungjae-ham.github.io)
 
 <sub>총 경력 5년 1개월</sub>
-
-</div>
