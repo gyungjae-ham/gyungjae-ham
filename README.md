@@ -1,131 +1,65 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=220&section=header&text=%ED%95%A8%EA%B2%BD%EC%9E%AC&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20Boot&descSize=16&descAlignY=58&descAlign=50" alt="함경재 - 백엔드 엔지니어" />
+# 함경재 &nbsp;·&nbsp; Gyungjae Ham
 
-<p>
-  <strong>안정적인 백엔드 시스템, 명확한 트랜잭션 경계, 그리고 실용적인 배포 자동화.</strong>
-</p>
+**Backend Engineer**
+
+응답 지연과 외부 시스템 의존처럼 구조에서 비롯되는 문제를<br/>
+비동기 처리 · 배치 · 사전 적재로 풀어내는 5년차 백엔드 엔지니어입니다.
 
 <p>
   <a href="mailto:gyeongjae.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gyeongjae.h.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-gyeongjae.h.dev@gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/gyungjae-ham">
-    <img src="https://img.shields.io/badge/GitHub-gyungjae--ham-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-gyungjae--ham-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gyungjae-ham.github.io">
+    <img src="https://img.shields.io/badge/Blog-gyungjae--ham.github.io-0F172A?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 </div>
 
----
+<br/>
 
-### 소개
+## 핵심 성과
 
-정확성과 운영성이 중요한 시스템에 집중하는 백엔드 엔지니어입니다. API 설계, 영속성 모델, 트랜잭션 범위, 배치 파이프라인, 인프라 자동화 전반에 걸쳐 작업합니다.
+| 무엇을 했나 | 결과 |
+| --- | --- |
+| 외부 API 실시간 호출을 30분 단위 배치 사전 적재로 재설계 | **42초 → 20ms** |
+| 대용량 주문 처리 파이프라인 재구성 (N+1 제거 · BatchInsert) | **60초 → 3~5초** |
+| Slow Query 진단 · 페이지네이션으로 주요 API 튜닝 | **1,200ms → 55ms** |
+| 테스트 병렬 실행 전환으로 CI 파이프라인 최적화 | **3분 20초 → 21초** |
+| K6 부하 테스트 기반 Pod 리소스 재배분 | **피크 timeout 0건** |
 
-현재 **Athler / Bind Corp**에서 서버, 셀러 어드민, 인프라 기능을 개발하고 있습니다.
+> 공통점은 하나입니다 — 외부 의존과 동기 처리에서 오는 병목을, **구조를 바꿔** 제거했습니다.
 
-### 만드는 것
+<br/>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>안정적인 API</strong>
-      <br />
-      도메인을 이해한 서비스 흐름, 명시적인 검증, 그리고 운영 서비스를 위한 예측 가능한 실패 처리.
-    </td>
-    <td width="33%" valign="top">
-      <strong>배치 처리</strong>
-      <br />
-      재시작 가능성, 관측 가능성, 데이터 일관성을 염두에 둔 반복 가능한 Spring Batch 파이프라인.
-    </td>
-    <td width="33%" valign="top">
-      <strong>인프라 자동화</strong>
-      <br />
-      AWS, Docker, Nginx, Jenkins, Ansible을 활용한 실용적인 배포 자동화.
-    </td>
-  </tr>
-</table>
+## 지금 하는 일
 
-### 엔지니어링 지향점
+**BIND** 에서 미디어 수집·변환 파이프라인과 인증 백엔드를 맡고 있습니다.
 
-- **데이터 무결성:** 영속성 규칙, 트랜잭션 경계, 일관성을 고려한 서비스 설계
-- **운영 안정성:** 관측 가능한 작업, 명확한 실패 모드, 운영 친화적인 기본값
-- **유지보수 가능한 배포:** 간결한 자동화, 반복 가능한 배포, 팀이 운영할 수 있는 인프라
-- **백엔드 장인정신:** 읽기 쉬운 코드, 집중된 추상화, 시간이 지나도 이해 가능한 시스템
+- 인스타그램 게시물 **자동 수집 파이프라인** — Redis 분산락으로 중복 차단, S3 스트리밍 업로드(8MB 청크). 수동 등록 0건, 노출 지연 `1~2일 → 24시간 이내`
+- **HLS 영상 변환 파이프라인** — MediaConvert 대신 ffmpeg + Celery로 직접 구축, 6초 segment 분할로 모바일 점진 재생
+- **전화번호 인증 백엔드 이관** — 검증을 서버로 옮기고 Redis 레이트리밋(시간당 10회), 테스트 213개로 클라이언트 우회 경로 제거
 
-### 기술 스택
+<br/>
 
-<table>
-  <tr>
-    <td><strong>백엔드</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Kotlin-6366F1?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Security-15803D?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-      <img src="https://img.shields.io/badge/Spring_Batch-0F766E?style=flat-square&logo=spring&logoColor=white" alt="Spring Batch" />
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>데이터베이스</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis-DC2626?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>인프라</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Nginx-059669?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      <img src="https://img.shields.io/badge/Jenkins-B91C1C?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-      <img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>도구</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-      <img src="https://img.shields.io/badge/Postman-F97316?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Git-EF4444?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+## 기술 스택
 
-### GitHub 개요
+| | |
+| --- | --- |
+| **주력** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA_·_Querydsl-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| **병행** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **데이터** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **인프라** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
 
-<div align="center">
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyungjae-ham&theme=github_dark" />
-  <img width="88%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyungjae-ham&theme=github" />
-</picture>
+## 경력
 
-<br />
+`BIND` 2026.01 ~ 재직 중 &nbsp;·&nbsp; `위밋모빌리티` 2024.10 ~ 2026.01 &nbsp;·&nbsp; `라이너스` 2023.07 ~ 2024.09 &nbsp;·&nbsp; `그 외` 레인보우8 · 쿠돈
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github_dark" />
-  <img width="43%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyungjae-ham&theme=github" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyungjae-ham&theme=github_dark" />
-  <img width="43%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyungjae-ham&theme=github" />
-</picture>
-
-</div>
-
-### 연락처
-
-백엔드 엔지니어링, Spring Batch, 인프라 자동화, 또는 협업 관련 문의:
-
-<p>
-  <a href="mailto:gyeongjae.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/gyeongjae.h.dev%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
-  </a>
-</p>
+<sub>전남대학교 경제학과 학사 · 총 경력 5년 1개월</sub>
