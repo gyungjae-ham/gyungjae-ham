@@ -29,6 +29,8 @@
 
 ## 🚀 임팩트
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
@@ -60,8 +62,8 @@
 </tr>
 </table>
 
-<div align="center">
 <sub>💡 공통점은 하나 — 외부 의존과 동기 처리에서 오는 병목을, <b>구조를 바꿔</b> 제거했습니다.</sub>
+
 </div>
 
 <br/>
@@ -158,5 +160,13 @@
 <br/>
 
 <div align="center">
-<sub>전남대학교 경제학과 학사 &nbsp;·&nbsp; 총 경력 5년 1개월 &nbsp;·&nbsp; 기술 선택 과정은 <a href="https://gyungjae-ham.github.io">블로그</a>에 기록합니다.</sub>
+
+### 📝 기술 선택과 트러블슈팅 과정을 블로그에 기록합니다
+
+<a href="https://gyungjae-ham.github.io">
+  <img src="https://img.shields.io/badge/gyungjae--ham.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A" alt="Blog" />
+</a>
+
+<sub>총 경력 5년 1개월</sub>
+
 </div>
