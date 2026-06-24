@@ -31,29 +31,29 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/42초_→_20ms-6366F1?style=for-the-badge&labelColor=0F172A" alt="42s to 20ms" /><br/>
 <sub><b>외부 API 사전 적재 재설계</b><br/>실시간 호출 → 30분 배치 조회</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/60초_→_3~5초-7C3AED?style=for-the-badge&labelColor=0F172A" alt="60s to 3s" /><br/>
 <sub><b>대용량 주문 처리 재구성</b><br/>N+1 제거 · BatchInsert</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/1,200ms_→_55ms-2563EB?style=for-the-badge&labelColor=0F172A" alt="1200ms to 55ms" /><br/>
 <sub><b>Slow Query 진단 · API 튜닝</b><br/>주기적 서버 다운 해결</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/3분_20초_→_21초-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="CI" /><br/>
 <sub><b>CI 테스트 병렬화</b><br/>700+ 테스트 실행 최적화</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/유실률_0%25-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="0 loss" /><br/>
 <sub><b>webhook 서버 분리</b><br/>출결·Zoom 데이터 무결성 확보</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/timeout_0건-06B6D4?style=for-the-badge&labelColor=0F172A" alt="0 timeout" /><br/>
 <sub><b>K6 부하 테스트 · Pod 재배분</b><br/>피크 시간대 가용성 확보</sub>
 </td>
